@@ -14,7 +14,6 @@ document.querySelector('.nos').addEventListener('click', function(event){
         buffer = event.target.innerHTML;
     else
         buffer = buffer+num;
-    console.log(buffer);
     display.innerHTML = buffer;
 });
 
