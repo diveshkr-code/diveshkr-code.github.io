@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    /* includes all of border margin and padding when calculating widths for all the components */
 }
 
 h1 {
